@@ -1,2 +1,6 @@
 # delta-student
-This is a git and github class
+    This is a git and github class
+
+#Teacher
+    Shradakhapra
+        
